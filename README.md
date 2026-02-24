@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Codecelix | Silicon Valley Startup Portfolio
 
-## Getting Started
+A premium, high-performance portfolio website built for elite tech startups. Featuring advanced SVG animations, infinite background flows, and extreme visual polish.
 
-First, run the development server:
+## 🚀 Vision
+Built for the next generation of founders, Codecelix combines the "Move Fast" mantra with "Swiss Watch" precision. This portfolio demonstrates state-of-the-Art motion design, performance optimization, and elite engineering.
 
+## 🛠️ Stack
+- **Framework**: [Next.js 16 (App Router)](https://nextjs.org/)
+- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Smooth Scroll**: [Lenis](https://lenis.darkroom.engineering/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Image Optimization**: Next.js `Image` with Priority loading
+
+## ✨ Features
+- **Infinite Background Flow**: Constant, high-density SVG motion for a dynamic user experience.
+- **Glassmorphism UI**: Premium "Silicon Valley" aesthetic with sophisticated blur effects.
+- **Global Text Reveals**: Elegant character-by-character entrance animations for all key content.
+- **Extreme Performance**: Optimized for Core Web Vitals with efficient asset loading and SVG rendering.
+- **Mobile Responsive**: Meticulously tuned for seamless experience across all viewports.
+
+## 🛠️ Getting Started
+
+First, install dependencies:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Run the development server:
+```bash
+npm run dev
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Build for production:
+```bash
+npm run build
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📄 License
+This project is for demonstration purposes related to the Codecelix Task 2.
